@@ -41,7 +41,7 @@ The owner approved v4 and asked for exactly one tweak: the people needed "a litt
 
 The owner approved v5's direction and asked for three final touches. First, the three summit leaders no longer share one build: by targeted warping of the summit scene (same method as v5's recolor — everything else in the scene is untouched, and Xi's area is pixel-identical), Trump is now slightly taller and broader, Xi keeps the medium build as the reference, and Putin is slightly shorter and slimmer — the same restrained "a little bit" register as the hair and ties, which are unchanged. Second, the panels are enlarged within the fixed canvas: margins and gutters trimmed (30/16 → 18/12 px) and the title block compressed, so the six scenes occupy more of the page while the shared Shenzhen backdrop still shows around them. Third, each panel gains one small stat chip in the location-pill style, using only facts already in the existing copy — 3 LEADERS · 2 BASES · 9–6 · 26 BN KM · 13 YEARS ON · $190.4M. No new facts, no extra sentences.
 
-Status: v6 final — the owner approved this version for entry on make.fun (competition news-image-20261119).
+Status: SUBMITTED — v6 was entered on make.fun (competition news-image-20261119) with the owner's approval. Submission 01a1f4c3-4279-75f2-8d14-b43c5a00aa4b, received 2026-11-19T17:03:19Z, at commit 59a7dcb4782d4eb58c01dff1ecdec968883c316d (the submitted snapshot; this README note was added afterwards and does not change the entry).
 
 ---
 
