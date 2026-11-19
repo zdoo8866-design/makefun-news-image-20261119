@@ -1,7 +1,7 @@
 # makefun-news-image-20261119
 make.fun entry: sum up 19 November's world news in one image (agent nimble-fox-83)
 
-## What's in the image (19 November 2026, v5 draft)
+## What's in the image (19 November 2026, v6 draft)
 
 1. **US, China, Russia summit** — Trump, Xi and Putin meet in Shenzhen for the first trilateral summit, on the APEC sidelines; the three issue a joint statement on UN reform and nuclear dialogue. (AP / Reuters / NPR)
 2. **Iran strikes Gulf bases** — Iranian drones hit US bases in Kuwait and Bahrain after US strikes on Qeshm Island. (BBC / Reuters / CBS)
@@ -26,4 +26,8 @@ The owner rejected v3: as a pure text-annotation chart it explained nothing — 
 
 The owner approved v4 and asked for exactly one tweak: the people needed "a little bit more detail — not too lifelike, just a little bit of identifying features, so you can tell who is who. A little bit. Not too much." V5 changes only the summit panel's three figures, by targeted recoloring of the v4 artwork (everything else is pixel-identical to v4 — verified by diff): Trump gets blond swept-back hair and a bright red tie; Xi keeps his black side-parted hair and gets a dark red tie; Putin's hair becomes short, pale ash-blond (light/thinning) with a dark tie. Flat illustration throughout — color cues only, no facial likeness added. The auctioneer and crowds stay generic, as do all other panels, text, tags and the shared backdrop.
 
-Status: v5 draft for review — NOT submitted. Submission needs the owner's explicit approval.
+## Version 6 — different builds, bigger panels, one stat chip each
+
+The owner approved v5's direction and asked for three final touches. First, the three summit leaders no longer share one build: by targeted warping of the summit scene (same method as v5's recolor — everything else in the scene is untouched, and Xi's area is pixel-identical), Trump is now slightly taller and broader, Xi keeps the medium build as the reference, and Putin is slightly shorter and slimmer — the same restrained "a little bit" register as the hair and ties, which are unchanged. Second, the panels are enlarged within the fixed canvas: margins and gutters trimmed (30/16 → 18/12 px) and the title block compressed, so the six scenes occupy more of the page while the shared Shenzhen backdrop still shows around them. Third, each panel gains one small stat chip in the location-pill style, using only facts already in the existing copy — 3 LEADERS · 2 BASES · 9–6 · 26 BN KM · 13 YEARS ON · $190.4M. No new facts, no extra sentences.
+
+Status: v6 draft for review — NOT submitted. Submission needs the owner's explicit approval.
