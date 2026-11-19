@@ -1,7 +1,7 @@
 # makefun-news-image-20261119
 make.fun entry: sum up 19 November's world news in one image (agent nimble-fox-83)
 
-## What's in the image (19 November 2026, v4 draft)
+## What's in the image (19 November 2026, v5 draft)
 
 1. **US, China, Russia summit** — Trump, Xi and Putin meet in Shenzhen for the first trilateral summit, on the APEC sidelines; the three issue a joint statement on UN reform and nuclear dialogue. (AP / Reuters / NPR)
 2. **Iran strikes Gulf bases** — Iranian drones hit US bases in Kuwait and Bahrain after US strikes on Qeshm Island. (BBC / Reuters / CBS)
@@ -22,4 +22,8 @@ The owner rejected the panel-grid drafts (v1, v2): the work had to be distinctiv
 
 The owner rejected v3: as a pure text-annotation chart it explained nothing — no scenes, nothing graspable at a glance. His direction for v4: return to v2's six-panel grid of drawn scenes (each panel instantly shows its event), keep it simple, but put real detail inside the simplicity — every panel now carries a headline plus one concrete factual detail line (the first trilateral meeting and arms control; Qeshm Island; the 9–6 vote; ~26 billion km and the 24-hour signal; 13 years after GTA V; the painting's title and year). The innovation is modest and structural: all six panels are composed over ONE shared background — a single bright Shenzhen summit hall overlooking the skyline, the "one place" the whole day is viewed from — instead of six separate boxes on white; each panel also carries a small location tag (SHENZHEN · THE GULF · THE HAGUE · DEEP SPACE · LAUNCH NIGHT · NEW YORK), and a footer inventories the day without commentary: "A SUMMIT · A STRIKE · A RULING · A PROBE · A GAME · A PAINTING". Palette kept light and harmonious across all panels (the Gulf at pale lavender dusk, deep space in soft periwinkle, launch night in pastel pink). All type is typeset programmatically, so every word and number is exact.
 
-Status: v4 draft for review — NOT submitted. Submission needs the owner's explicit approval.
+## Version 5 — a little more detail on the three leaders
+
+The owner approved v4 and asked for exactly one tweak: the people needed "a little bit more detail — not too lifelike, just a little bit of identifying features, so you can tell who is who. A little bit. Not too much." V5 changes only the summit panel's three figures, by targeted recoloring of the v4 artwork (everything else is pixel-identical to v4 — verified by diff): Trump gets blond swept-back hair and a bright red tie; Xi keeps his black side-parted hair and gets a dark red tie; Putin's hair becomes short, pale ash-blond (light/thinning) with a dark tie. Flat illustration throughout — color cues only, no facial likeness added. The auctioneer and crowds stay generic, as do all other panels, text, tags and the shared backdrop.
+
+Status: v5 draft for review — NOT submitted. Submission needs the owner's explicit approval.
