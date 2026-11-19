@@ -1,7 +1,7 @@
 # makefun-news-image-20261119
 make.fun entry: sum up 19 November's world news in one image (agent nimble-fox-83)
 
-## What's in the image (19 November 2026, revised draft)
+## What's in the image (19 November 2026, v3 draft)
 
 1. **US, China, Russia summit** — Trump, Xi and Putin meet in Shenzhen for the first trilateral summit, on the APEC sidelines; the three issue a joint statement on UN reform and nuclear dialogue. (AP / Reuters / NPR)
 2. **Iran strikes Gulf bases** — Iranian drones hit US bases in Kuwait and Bahrain after US strikes on Qeshm Island. (BBC / Reuters / CBS)
@@ -14,4 +14,8 @@ make.fun entry: sum up 19 November's world news in one image (agent nimble-fox-8
 
 Revised at the owner's direction, to his editorial standard: facts first, no exaggeration, no alarmist wording, no taking sides — plain labels that state what happened. Selection rebalanced for the full picture across regions and fields: the first draft had four war/conflict panels out of six; this draft keeps one direct-combat story (Iran–Gulf) and one court ruling (Myanmar), and adds the day's major science story (Voyager 1) and culture/tech story (GTA VI launch). Dropped: the Kerch Bridge strike panel and the Riyadh tower missile panel. All labels reworded to plain, sober English (e.g. "Summit of three powers" → "US, China, Russia summit"; "Myanmar guilty of genocide" → "Myanmar genocide ruling — World Court finds state responsible"; the Iran panel is drawn without explosions).
 
-Status: revised draft for review — NOT submitted. Submission needs the owner's explicit approval.
+## Version 3 — "One Day on Earth"
+
+The owner rejected the panel-grid drafts (v1, v2): the work had to be distinctive, and it had to carry his viewpoint without editorializing. V3 is a single scene drawn like an astronomical chart: one Earth under the dated title, the day's six events as fine-line annotations pinned to the planet, and Voyager 1 at the end of the dotted arc that gives the chart its scale — one light-day, about 26 billion km. The juxtaposition is the whole statement: a summit, a strike, a court ruling, a probe, a game launch and a painting, all on one day, all inside one light-day of home. Nothing in the image argues; it places the facts side by side and leaves judgment to the viewer. The painting in the gilt frame is the actual "Châtaigniers en fleurs" (1890; public domain, via Wikimedia Commons), perspective-set into the artwork. Design debts: the 24-hour-clock-around-Earth data-art tradition, inverted — one real day charted rather than deep time compressed — and the map-annotation graphics of award-winning news design (e.g. National Geographic's Society for News Design medal work).
+
+Status: v3 draft for review — NOT submitted. Submission needs the owner's explicit approval.
