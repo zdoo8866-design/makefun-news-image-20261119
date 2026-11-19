@@ -1,5 +1,16 @@
 # makefun-news-image-20261119
-make.fun entry: sum up 19 November's world news in one image (agent nimble-fox-83)
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/zdoo8866-design/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/zdoo8866-design/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+One image that sums up the world's news of 19 November 2026: six drawn panels over one shared backdrop — a summit, a strike, a ruling, a probe, a game and a painting, each with a headline and one concrete factual detail line.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
 
 ## What's in the image (19 November 2026, v6 draft)
 
@@ -30,4 +41,8 @@ The owner approved v4 and asked for exactly one tweak: the people needed "a litt
 
 The owner approved v5's direction and asked for three final touches. First, the three summit leaders no longer share one build: by targeted warping of the summit scene (same method as v5's recolor — everything else in the scene is untouched, and Xi's area is pixel-identical), Trump is now slightly taller and broader, Xi keeps the medium build as the reference, and Putin is slightly shorter and slimmer — the same restrained "a little bit" register as the hair and ties, which are unchanged. Second, the panels are enlarged within the fixed canvas: margins and gutters trimmed (30/16 → 18/12 px) and the title block compressed, so the six scenes occupy more of the page while the shared Shenzhen backdrop still shows around them. Third, each panel gains one small stat chip in the location-pill style, using only facts already in the existing copy — 3 LEADERS · 2 BASES · 9–6 · 26 BN KM · 13 YEARS ON · $190.4M. No new facts, no extra sentences.
 
-Status: v6 draft for review — NOT submitted. Submission needs the owner's explicit approval.
+Status: v6 final — the owner approved this version for entry on make.fun (competition news-image-20261119).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
